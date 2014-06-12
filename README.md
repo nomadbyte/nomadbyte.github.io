@@ -1,2 +1,0 @@
-nomadbyte.github.io
-===================

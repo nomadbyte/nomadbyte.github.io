@@ -1,0 +1,10 @@
+
+#logo {
+  font-size: 4em;
+  font-family: "Calibri", monospace;
+
+  text-align: center;
+  text-transform: lowercase;
+
+  margin: 3em;
+}
